@@ -1,0 +1,31 @@
+.start-Page-BG{
+    background:url("https://www.chesapeake.edu/sites/default/files/images/events/networkmaint.jpg")no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 1365px;
+    height: 635px;
+ 
+
+ 
+}
+.start-Page{
+    padding-top:30%;
+    font-family:lato
+}
+.login-Type{
+    color: aqua;
+    font-size: 20px;
+}
+.confirmBtn{
+    background: aqua !important;
+    border:none !important;
+}
+.confirm-Btn-cont{
+    margin-top: 53px;
+    margin-bottom: 10px;
+}
+.cd-content{
+    margin-top: 10px !important;
+}
